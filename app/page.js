@@ -20,11 +20,10 @@ export default function Home() {
 
         <h1 className="text-5xl font-extrabold text-red-800 mt-4">
           Elbrand
-          
         </h1>
 
         <p className="text-gray-800 mt-2 text-lg tracking-wide">
-          🚚O'zbekiston bo'ylab yetkazish xizmati mavjud💥
+          🚚O&#39;zbekiston bo&#39;ylab yetkazish xizmati mavjud💥
         </p>
       </div>
 
@@ -67,7 +66,7 @@ export default function Home() {
         <div className="flex items-center gap-4 p-3 rounded-lg hover:bg-green-50 transition border">
           <PhoneIcon className="text-green-500 text-3xl" />
           <div>
-            <h1 className="text-lg font-bold">Bog'lanish</h1>
+            <h1 className="text-lg font-bold">Bog&#39;lanish</h1>
             <p className="text-gray-600">+998 97 774 06 69</p>
           </div>
         </div>
@@ -84,7 +83,7 @@ export default function Home() {
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
-            <h1 className="text-lg font-bold">Qo'yliq Pochta filiali</h1>
+            <h1 className="text-lg font-bold">Qo&#39;yliq Pochta filiali</h1>
             <p className="text-gray-600">☎️Tel: +998 97 774 06 69</p>
           </div>
         </a>
@@ -104,7 +103,7 @@ export default function Home() {
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
-            <h1 className="text-lg font-bold">Mirzo Ulug'bek filiali</h1>
+            <h1 className="text-lg font-bold">Mirzo Ulug&#39;bek filiali</h1>
             <p className="text-gray-600">☎️Tel: +998 99 050 39 63</p>
           </div>
         </a>
