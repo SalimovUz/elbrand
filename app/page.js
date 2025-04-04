@@ -53,7 +53,7 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://t.me/mom1noow"
+          href="https://t.me/sadriddin_01_09"
           className="flex items-center gap-4 p-3 rounded-lg hover:bg-blue-50 transition border"
         >
           <SendIcon className="text-blue-500 text-3xl" />
@@ -104,11 +104,11 @@ export default function Home() {
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
             <h1 className="text-lg font-bold">Mirzo Ulug&#39;bek filiali</h1>
-            <p className="text-gray-600">☎️Tel: +998 99 050 39 63</p>
+            <p className="text-gray-600">☎️Tel: +998 99 088 37 22</p>
           </div>
         </a>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.221389_69.258789_Point"
+          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.221388_69.258531_Point"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
@@ -118,13 +118,13 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://t.me/elbrand_rasmiy"
+          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.364496_69.295114_Point"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
             <h1 className="text-lg font-bold">Yunusobod filiali</h1>
-            <p className="text-gray-600">☎️Tel: +998 97 774 06 69</p>
+            <p className="text-gray-600">☎️Tel: +998 90 038 74 31</p>
           </div>
         </a>
       </div>
