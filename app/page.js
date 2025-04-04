@@ -78,7 +78,7 @@ export default function Home() {
           Manzil (Filiallarimiz)
         </h1>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.25249_69.322419_Point"
+          href="https://maps.google.com/maps?q=41.252490,69.322419&ll=41.252490,69.322419&z=16"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
@@ -88,7 +88,7 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.254285_69.373977_Point"
+          href="https://maps.google.com/maps?q=41.254285,69.373977&ll=41.254285,69.373977&z=16"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
@@ -98,7 +98,7 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.334611_69.407222_Point"
+          href="https://maps.google.com/maps?q=41.334611,69.407222&ll=41.334611,69.407222&z=16"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
@@ -108,7 +108,7 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.221388_69.258531_Point"
+          href="https://maps.google.com/maps?q=41.221389,69.258789&ll=41.221389,69.258789&z=16"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
@@ -118,7 +118,7 @@ export default function Home() {
           </div>
         </a>
         <a target="_blank"
-          href="https://maps.windows.com/?form=WNAMSH&collection=point.41.364496_69.295114_Point"
+          href="https://maps.google.com/maps?q=41.364496,69.295114&ll=41.364496,69.295114&z=16"
           className="flex items-start gap-4 p-3 rounded-lg hover:bg-gray-50 transition border"
         >
           <LocationOnIcon className="text-red-500 text-3xl" />
